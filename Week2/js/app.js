@@ -12,6 +12,5 @@ if(sUsrAg.indexOf("Chrome") > -1) {
 } else if (sUsrAg.indexOf("MSIE") > -1) {
     sBrowser = "Microsoft Internet Explorer";
 }
-
 alert("You are using: " + sBrowser);
 }
